@@ -5,7 +5,7 @@
 
 
 header {
-    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,00.5)), url(/images/pic3.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,00.5)), url(./images/pic3.jpg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
